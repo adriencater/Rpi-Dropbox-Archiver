@@ -37,6 +37,10 @@
 	- [powered USB hub](https://thepihut.com/products/7-port-usb-hub-for-the-raspberry-pi)
 	- portable external hard drive
 
+### OS
+
+- [openmediavault.org](http://www.openmediavault.org) looks like it might be an good solution – it’s a ‘NAS OS’, supports BTRFS out of the box, has a bunch of management features, etc.…
+
 ### Dropbox 
 
 - The system should be ‘read only’ for Dropbox.
